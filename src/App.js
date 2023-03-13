@@ -244,7 +244,7 @@ const App = () => {
           >
             <Breadcrumb.Item>Home</Breadcrumb.Item>
             <Breadcrumb.Item>List</Breadcrumb.Item>
-            <Breadcrumb.Item>App</Breadcrumb.Item>
+            <Breadcrumb.Item>Apps</Breadcrumb.Item>
           </Breadcrumb>
           <Content
             style={{
